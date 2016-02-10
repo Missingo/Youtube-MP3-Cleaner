@@ -1,0 +1,12 @@
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\bin\Debug\Youtube MP3 Cleaner.exe.config
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\obj\Debug\Youtube MP3 Cleaner.csprojResolveAssemblyReference.cache
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\obj\Debug\Youtube_MP3_Cleaner.Form1.resources
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\obj\Debug\Youtube_MP3_Cleaner.Properties.Resources.resources
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\obj\Debug\Youtube MP3 Cleaner.csproj.GenerateResource.Cache
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\bin\Debug\Youtube MP3 Cleaner.exe
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\bin\Debug\Youtube MP3 Cleaner.pdb
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\bin\Debug\taglib-sharp.dll
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\bin\Debug\policy.2.0.taglib-sharp.config
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\obj\Debug\Youtube MP3 Cleaner.exe
+c:\users\gabeco\documents\visual studio 2015\Projects\Youtube MP3 Cleaner\Youtube MP3 Cleaner\obj\Debug\Youtube MP3 Cleaner.pdb
